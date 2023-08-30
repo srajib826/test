@@ -1,6 +1,7 @@
 import json
 di={
-    'cousr':'python'
+    'cousr':'python',
+    'fees':'5k'
     
 }
 
